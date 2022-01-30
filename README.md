@@ -8,4 +8,4 @@
 
 | S.No.| Read the Article | Code|
 |------|---------|--------|
-|1| Document-Term Matrix in NLP: Count and TF-IDF Scores Explained||
+|1| [Document-Term Matrix in NLP: Count and TF-IDF Scores Explained](https://hackernoon.com/document-term-matrix-in-nlp-count-and-tf-idf-scores-explained)||
