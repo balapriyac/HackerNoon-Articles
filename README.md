@@ -3,9 +3,9 @@
 >
 > This repository contains the link to tutorials, code and images used.
 
-**Area of Focus**: Data Science and Machine Learning
+## Area of Focus: Data Science and Machine Learning
 
 
-| S.No.| Read the Article | Code|
+| S.No.| 📋 Read the Article |▶ Code|
 |------|---------|--------|
 |1| [Document-Term Matrix in NLP: Count and TF-IDF Scores Explained](https://hackernoon.com/document-term-matrix-in-nlp-count-and-tf-idf-scores-explained)|[Images & scikit-learn Code ](https://github.com/balapriyac/HackerNoon-Blogging-Fellowship/tree/main/1-document-term-matrix)|
