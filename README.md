@@ -1,7 +1,7 @@
 # ✍ HackerNoon Blogging Fellowship
-> To track progress during the HackerNoon Blogging Fellowship 2022
+> ⏳To track progress during the HackerNoon Blogging Fellowship 2022
 >
-> This repository contains the link to tutorials, code and images used.
+> 📁This repository contains the link to tutorials, code and images used.
 
 ## Area of Focus: Data Science and Machine Learning
 
