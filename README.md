@@ -8,4 +8,5 @@
 
 | S.No.| 📋 Read the Article |▶ Code|
 |------|---------|--------|
-|1| [Document-Term Matrix in NLP: Count and TF-IDF Scores Explained](https://hackernoon.com/document-term-matrix-in-nlp-count-and-tf-idf-scores-explained)|[Images & scikit-learn Code ](https://github.com/balapriyac/HackerNoon-Blogging-Fellowship/tree/main/1-document-term-matrix)|
+|1| [Document-Term Matrix in NLP: Count and TF-IDF Scores Explained](https://hackernoon.com/document-term-matrix-in-nlp-count-and-tf-idf-scores-explained)|[Images & scikit-learn code ](https://github.com/balapriyac/HackerNoon-Blogging-Fellowship/tree/main/1-document-term-matrix)|
+|2| [Confusion Matrix in Machine Learning: Everything You Need to Know](https://hackernoon.com/confusion-matrix-in-machine-learning-everything-you-need-to-know)|[Images & scikit-learn code ](https://github.com/balapriyac/HackerNoon-Blogging-Fellowship/tree/main/2-confusion-matrix)|
