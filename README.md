@@ -10,4 +10,4 @@
 |------|---------|--------|
 |1| [Document-Term Matrix in NLP: Count and TF-IDF Scores Explained](https://hackernoon.com/document-term-matrix-in-nlp-count-and-tf-idf-scores-explained)|[IPython notebook](https://github.com/balapriyac/HackerNoon-Blogging-Fellowship/tree/main/1-document-term-matrix)|
 |2| [Confusion Matrix in Machine Learning: Everything You Need to Know](https://hackernoon.com/confusion-matrix-in-machine-learning-everything-you-need-to-know)|[IPython notebook ](https://github.com/balapriyac/HackerNoon-Blogging-Fellowship/tree/main/2-confusion-matrix)|
-|3|[Learn K-Means Clustering by Quantizing Color Images in Python](https://hackernoon.com/learn-k-means-clustering-by-quantizing-color-images-in-python)||
+|3|[Learn K-Means Clustering by Quantizing Color Images in Python](https://hackernoon.com/learn-k-means-clustering-by-quantizing-color-images-in-python)|[IPython notebook](https://github.com/balapriyac/HackerNoon-Blogging-Fellowship/blob/main/3-k-means-clustering/code/3_KMeans_for_Color_Quantization.ipynb)|
