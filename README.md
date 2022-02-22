@@ -3,7 +3,7 @@
 >
 > 📁This repository contains the link to tutorials, code and images used.
 
-## Area of Focus: Data Science and Machine Learning
+## Area of Focus: Machine Learning, Data Science, and Data Engineering
 
 
 | S.No.| 📋 Read the Article |📁Resources|
