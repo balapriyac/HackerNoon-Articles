@@ -1,9 +1,8 @@
-# ✍ HackerNoon Blogging Fellowship
-> ⏳To track progress during the HackerNoon Blogging Fellowship 2022
->
+# ✍ Tutorials \& In-Depth Guides on HackerNoon
+
 > 📁This repository contains the link to tutorials, code, and images used.
 
-## Area of Focus: Data Science, Machine Learning, and Natural Language Processing
+## Areas of Focus: Data Science, Machine Learning, and Natural Language Processing
 
 
 | S.No.| Read the Article | Tag| Article Type|
